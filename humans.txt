@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Patrick Harlen	phbase@gmail.com
 
 # THANKS
 
