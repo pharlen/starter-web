@@ -7,6 +7,7 @@ Adding line for rebase example, more changes from my feature branch
 ## Introduction
 
 Introduction Section
+Adding some introduction more on readme
 
 ## Purpose
 
