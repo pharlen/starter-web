@@ -16,6 +16,9 @@ Deployment text
 
 ## How to contribute
 
+Please fork this repo and issue pull request for review
+
+
 ##Copyright
 
 Copyright harlen.dev 2020
