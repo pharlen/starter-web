@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 Deployment text
 
 ## How to contribute
+
+##Copyright
+
+Copyright harlen.dev 2020
